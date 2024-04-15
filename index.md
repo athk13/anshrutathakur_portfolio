@@ -2,17 +2,17 @@
 
 ---
 
-### Category Name 1 
+### Data Science, Machine Learning, NLP 
 
-[Project 1 Title](/sample_page)
+[ML Models for Quantitative Finance- Alpha Research](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Sentiment Analysis- Forex Trading Strategy](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Deep NLP- Hate Speech Recognition](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

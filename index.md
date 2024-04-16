@@ -17,16 +17,17 @@ In this project, I developed a Forex trading strategy by conducting sentiment an
 
 [View the project on GitHub](https://github.com/athk13/FX-Sentiment-Analysis-Trading-Strategy)
 
-<div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap;">
-  <div style="text-align: center; margin: 10px;">
-    <strong>Figure 1: Trading Signal Chart</strong><br>
-    <img src="images/Screenshot 2024-04-16 122044.png?raw=true" alt="Trading Signal Chart" style="max-width: 45%;"/>
+<div style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: nowrap;">
+  <div>
+    <strong>Figure 1: Trading Signal Chart</strong>
+    <img src="images/Screenshot 2024-04-16 122044.png?raw=true" alt="Trading Signal Chart" style="width: auto; max-width: 50%;"/>
   </div>
-  <div style="text-align: center; margin: 10px;">
-    <strong>Figure 2: Strategy Equity Curve</strong><br>
-    <img src="images/Screenshot 2024-04-16 122058.png?raw=true" alt="Equity Curve" style="max-width: 45%;"/>
+  <div>
+    <strong>Figure 2: Strategy Equity Curve</strong>
+    <img src="images/Screenshot 2024-04-16 122058.png?raw=true" alt="Equity Curve" style="width: auto; max-width: 50%;"/>
   </div>
 </div>
+
 
 
 ---
@@ -41,12 +42,12 @@ This project involves developing a machine learning model to detect hateful and 
 
 ### Data Analytics
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+- Executive Compensation Analytics (SEC PvP Disclosures)
+  Dove into compensation data across 1,780 firms, uncovering critical patterns between executive pay and corporate 
+  outcomes, driving strategic shifts in performance benchmarks.
+- Strategic Portfolio Optimization
+  Developed a data-driven portfolio optimization model using historical stock data and Markowitz's optimization theory, 
+  successfully creating risk-adjusted, diversified portfolios.
 ---
 
 

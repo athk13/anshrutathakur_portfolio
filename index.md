@@ -17,8 +17,10 @@ In this project, I developed a Forex trading strategy by conducting sentiment an
 
 [View the project on GitHub](https://github.com/athk13/FX-Sentiment-Analysis-Trading-Strategy)
 
-<img src="images/Screenshot 2024-04-16 100310.png?raw=true"/> <img src="images/Screenshot 2024-04-16 100737.png?raw=true"/>
-
+<p float="left">
+  <img src="images/Screenshot 2024-04-16 100310.png?raw=true" width="400px" />
+  <img src="images/Screenshot 2024-04-16 100737.png?raw=true" width="400px" />
+</p>
 ---
 #### Deep NLP- Hate Speech Recognition
 

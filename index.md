@@ -22,9 +22,12 @@ In this project, I developed a Forex trading strategy by conducting sentiment an
   <img src="images/Screenshot 2024-04-16 100737.png?raw=true" width="400px" />
 </p>
 ---
+
 #### Deep NLP- Hate Speech Recognition
 
 This project involves developing a machine learning model to detect hateful and offensive speech on social media platforms, specifically analyzing tweets from the 2020 US Elections. Using BERT, a natural language processing model, the project integrates both textual content and contextual stances towards political figures to classify tweets as either hateful or non-hateful, aiming to enhance content moderation by improving the detection accuracy of harmful online behavior.
+
+[View the project on Colab](https://colab.research.google.com/drive/1rRiavPZYeSQPbQE0IoRFXuawqtjPFXta?usp=sharing)
 
 ---
 

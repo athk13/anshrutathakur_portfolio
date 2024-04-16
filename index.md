@@ -4,9 +4,11 @@
 
 ### Data Science, Machine Learning, NLP 
 
-[ML Models for Quantitative Finance- Alpha Research](/sample_page)
+[ML Models for Quantitative Finance- Alpha Research]
 
 At Optimas Capital, a distinguished investment management firm, I analyzed a complex dataset with over 2000 financial features using PCA and machine learning models like Random Forest and XGBoost, developing strategies that outperformed the market benchmark by 17.8%. Our team successfully achieved the project goal of finding orthogonal alphas.
+
+[View the project on GitHub](https://github.com/athk13/Quantitative-Finance-ML-Model)
 
 ---
 [Sentiment Analysis- Forex Trading Strategy](/pdf/sample_presentation.pdf)
@@ -33,6 +35,4 @@ This project involves developing a machine learning model to detect hateful and 
 
 
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+

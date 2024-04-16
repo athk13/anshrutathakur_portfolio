@@ -19,13 +19,14 @@ In this project, I developed a Forex trading strategy by conducting sentiment an
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
   <figure>
+    <figcaption style="font-weight: bold;">Figure 1: Trading Signal Chart (Success of Long/Short Positions)</figcaption>
     <img src="images/Screenshot 2024-04-16 122044.png?raw=true" alt="Trading Signal Chart" width="400px"/>
-    <figcaption>Figure 1: Trading Signal Chart - This figure illustrates the GBP/USD exchange rate along with the points where the model signaled successful long and short positions.</figcaption>
   </figure>
 
   <figure>
+    <figcaption style="font-weight: bold;">Figure 2: Strategy Equity (Profitability) Curve</figcaption>
     <img src="images/Screenshot 2024-04-16 122058.png?raw=true" alt="Equity Curve" width="400px"/>
-    <figcaption>Figure 2: Strategy Equity Curve - This chart shows the cumulative returns of the strategy over time, highlighting its overall profitability.</figcaption>
+    <figcaption>Backtesting Period: Jan 2011 to Dec 2023 </figcaption>
   </figure>
 </div>
 ---

@@ -17,19 +17,6 @@ In this project, I developed a Forex trading strategy by conducting sentiment an
 
 [View the project on GitHub](https://github.com/athk13/FX-Sentiment-Analysis-Trading-Strategy)
 
-<div style="font-family: Arial, sans-serif; text-align: center; white-space: nowrap;">
-  <div style="display: inline-block; vertical-align: top; width: 48%; margin-right: 2%;">
-    <p><strong>Figure 1: Trading Signal Chart</strong></p>
-    <img src="images/Screenshot%202024-04-16%20122044.png" alt="Trading Signal Chart" style="width: 100%; height: auto;">
-  </div>
-  <div style="display: inline-block; vertical-align: top; width: 48%;">
-    <p><strong>Figure 2: Strategy Equity Curve</strong></p>
-    <img src="images/Screenshot%202024-04-16%20122058.png" alt="Equity Curve" style="width: 100%; height: auto;">
-  </div>
-</div>
-
-
-
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
   <div style="width: 50%; padding-right: 10px;">
     <p><strong>Figure 1: Trading Signal Chart</strong></p>

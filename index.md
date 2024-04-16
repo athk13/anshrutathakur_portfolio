@@ -27,6 +27,18 @@ In this project, I developed a Forex trading strategy by conducting sentiment an
   <strong>Figure 1:</strong> Trading Signal Chart &emsp; <strong>Figure 2:</strong> Strategy Equity Curve
 </p>
 
+<div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap;">
+  <div style="text-align: center; margin: 10px;">
+    <strong>Figure 1: Trading Signal Chart</strong><br>
+    <img src="images/Screenshot 2024-04-16 122044.png?raw=true" alt="Trading Signal Chart" style="max-width: 45%;"/>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <strong>Figure 2: Strategy Equity Curve</strong><br>
+    <img src="images/Screenshot 2024-04-16 122058.png?raw=true" alt="Equity Curve" style="max-width: 45%;"/>
+  </div>
+</div>
+
+
 
 
 ---

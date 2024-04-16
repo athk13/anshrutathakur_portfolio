@@ -43,10 +43,12 @@ This project involves developing a machine learning model to detect hateful and 
 
 ### Data Analytics
 
-- *Executive Compensation Analytics (SEC PvP Disclosures)* :
+- **Executive Compensation Analytics (SEC PvP Disclosures)** :
+  
   Dove into compensation data across 1,780 firms, uncovering critical patterns between executive pay and corporate 
   outcomes, driving strategic shifts in performance benchmarks.
-- *Strategic Portfolio Optimization* : 
+- **Strategic Portfolio Optimization** :
+  
   Developed a data-driven portfolio optimization model using historical stock data and Markowitz's optimization theory, 
   successfully creating risk-adjusted, diversified portfolios.
   

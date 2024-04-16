@@ -18,13 +18,13 @@ In this project, I developed a Forex trading strategy by conducting sentiment an
 [View the project on GitHub](https://github.com/athk13/FX-Sentiment-Analysis-Trading-Strategy)
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
-  <div style="margin-right: 10px; flex-grow: 1;">
+  <div style="width: 50%; padding-right: 10px;">
     <p><strong>Figure 1: Trading Signal Chart</strong></p>
-    <img src="image-path1.png" alt="Trading Signal Chart" style="width: 100%; max-width: 520px; height: auto;"/>
+    <img src="image-Screenshot 2024-04-16 122044.png" alt="Trading Signal Chart" style="width: 100%; height: auto;"/>
   </div>
-  <div style="flex-grow: 1;">
+  <div style="width: 50%; padding-left: 10px;">
     <p><strong>Figure 2: Strategy Equity Curve</strong></p>
-    <img src="image-path2.png" alt="Equity Curve" style="width: 100%; max-width: 520px; height: auto;"/>
+    <img src="image-Screenshot 2024-04-16 122058.png" alt="Equity Curve" style="width: 100%; height: auto;"/>
   </div>
 </div>
 

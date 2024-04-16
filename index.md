@@ -28,6 +28,7 @@ In this project, I developed a Forex trading strategy by conducting sentiment an
   </figure>
 </div>
 
+
 ---
 
 #### Deep NLP- Hate Speech Recognition

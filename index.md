@@ -17,19 +17,17 @@ In this project, I developed a Forex trading strategy by conducting sentiment an
 
 [View the project on GitHub](https://github.com/athk13/FX-Sentiment-Analysis-Trading-Strategy)
 
-<div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <figure>
-    <strong><figcaption style="text-align: center;">Figure 1: Trading Signal Chart</figcaption></strong>
-    <img src="images/Screenshot 2024-04-16 122044.png?raw=true" alt="Trading Signal Chart" style="width: 100%; max-width: 300px; height: auto;"/>
-    <figcaption style="text-align: center;">Success of Long/Short Positions</figcaption>
+    <figcaption style="font-weight: bold; text-align: center; margin-bottom: 5px;">Figure 1: Trading Signal Chart</figcaption>
+    <img src="images/Screenshot 2024-04-16 122044.png?raw=true" alt="Trading Signal Chart" style="width: 49%;"/>
   </figure>
-
   <figure>
-    <strong><figcaption style="text-align: center;">Figure 2: Strategy Equity Curve</figcaption></strong>
-    <img src="images/Screenshot 2024-04-16 122058.png?raw=true" alt="Equity Curve" style="width: 100%; max-width: 300px; height: auto;"/>
-    <figcaption style="text-align: center;">Backtesting Period: Jan 2011 to Dec 2023</figcaption>
+    <figcaption style="font-weight: bold; text-align: center; margin-bottom: 5px;">Figure 2: Strategy Equity Curve</figcaption>
+    <img src="images/Screenshot 2024-04-16 122058.png?raw=true" alt="Equity Curve" style="width: 49%;"/>
   </figure>
 </div>
+
 ---
 
 #### Deep NLP- Hate Speech Recognition

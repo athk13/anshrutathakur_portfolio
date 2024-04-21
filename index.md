@@ -8,6 +8,8 @@
 
 At Optimas Capital, a distinguished investment management firm, I analyzed a complex dataset with over 2000 financial features using PCA and machine learning models like Random Forest and XGBoost, developing strategies that outperformed the market benchmark by 17.8%. Our team successfully achieved the project goal of finding orthogonal alphas.
 
+*Tools: Python, PCA, Random Forest, XGBoost*
+
 [View project on GitHub](https://github.com/athk13/Quantitative-Finance-ML-Model)
 
 ---

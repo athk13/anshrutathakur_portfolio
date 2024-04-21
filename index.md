@@ -20,6 +20,11 @@ At Optimas Capital, a distinguished investment management firm, I analyzed a com
 
 In this project, I developed a Forex trading strategy by conducting sentiment analysis on economic news extracted using the NY Times API, spanning 2003 to 2024, using advanced NLP techniques and machine learning algorithms. The strategy was optimized through backtesting and hyperparameter tuning, ultimately achieving a 1.4% annualized return, thereby outperforming the HFRI Currency Index. 
 
+![Regex](https://img.shields.io/badge/Regex-grey?style=flat-square)
+![TextBlob](https://img.shields.io/badge/TextBlob-grey?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-grey?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-grey?style=flat-square)
+
 [View project on GitHub](https://github.com/athk13/FX-Sentiment-Analysis-Trading-Strategy)
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
@@ -41,6 +46,10 @@ In this project, I developed a Forex trading strategy by conducting sentiment an
 #### Deep NLP- Hate Speech Recognition
 
 This project involves developing a machine learning model to detect hateful and offensive speech on social media platforms, specifically analyzing tweets from the 2020 US Elections. Using BERT, a natural language processing model, the project integrates both textual content and contextual stances towards political figures to classify tweets as either hateful or non-hateful, aiming to enhance content moderation by improving the detection accuracy of harmful online behavior.
+
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-grey?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-grey?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-grey?style=flat-square&logo=pytorch)
 
 [View project on Colab](https://colab.research.google.com/drive/1rRiavPZYeSQPbQE0IoRFXuawqtjPFXta?usp=sharing) | [View article on Medium](https://medium.com/@anshrutathakur13/decoding-discord-using-ai-to-identify-hate-speech-100e8073d3bf)
 

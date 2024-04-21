@@ -8,7 +8,10 @@
 
 At Optimas Capital, a distinguished investment management firm, I analyzed a complex dataset with over 2000 financial features using PCA and machine learning models like Random Forest and XGBoost, developing strategies that outperformed the market benchmark by 17.8%. Our team successfully achieved the project goal of finding orthogonal alphas.
 
-*Tools: Python, PCA, Random Forest, XGBoost*
+![Python](https://img.shields.io/badge/Python-grey?style=flat-square&logo=python)
+![PCA](https://img.shields.io/badge/PCA-grey?style=flat-square)
+![Random Forest](https://img.shields.io/badge/Random_Forest-grey?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-grey?style=flat-square)
 
 [View project on GitHub](https://github.com/athk13/Quantitative-Finance-ML-Model)
 
@@ -39,7 +42,7 @@ In this project, I developed a Forex trading strategy by conducting sentiment an
 
 This project involves developing a machine learning model to detect hateful and offensive speech on social media platforms, specifically analyzing tweets from the 2020 US Elections. Using BERT, a natural language processing model, the project integrates both textual content and contextual stances towards political figures to classify tweets as either hateful or non-hateful, aiming to enhance content moderation by improving the detection accuracy of harmful online behavior.
 
-[View project on Colab](https://colab.research.google.com/drive/1rRiavPZYeSQPbQE0IoRFXuawqtjPFXta?usp=sharing) [View article on Medium](https://medium.com/@anshrutathakur13/decoding-discord-using-ai-to-identify-hate-speech-100e8073d3bf)
+[View project on Colab](https://colab.research.google.com/drive/1rRiavPZYeSQPbQE0IoRFXuawqtjPFXta?usp=sharing) | [View article on Medium](https://medium.com/@anshrutathakur13/decoding-discord-using-ai-to-identify-hate-speech-100e8073d3bf)
 
 ---
 

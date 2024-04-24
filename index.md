@@ -29,11 +29,11 @@ In this project, I developed a Forex trading strategy by conducting sentiment an
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
   <div style="width: 50%; padding-right: 10px;">
-    <p><strong>Figure 1: Trading Signal Chart</strong></p>
+    <p><strong>Figure 1:</strong> Trading Signal Chart</p>
     <img src="images/Screenshot%202024-04-16%20122044.png" alt="Trading Signal Chart" style="width: 100%; height: auto;"/>
   </div>
   <div style="width: 50%; padding-left: 10px;">
-    <p><strong>Figure 2: Strategy Equity Curve</strong></p>
+    <p><strong>Figure 2:</strong> Strategy Equity Curve</p>
     <img src="images/Screenshot%202024-04-16%20122058.png" alt="Equity Curve" style="width: 100%; height: auto;"/>
   </div>
 </div>

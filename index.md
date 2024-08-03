@@ -51,7 +51,7 @@ This project involves developing a machine learning model to detect hateful and 
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-grey?style=flat-square)
 ![PyTorch](https://img.shields.io/badge/PyTorch-grey?style=flat-square&logo=pytorch)
 
-[View project on Colab](https://colab.research.google.com/drive/1rRiavPZYeSQPbQE0IoRFXuawqtjPFXta?usp=sharing) | [View article on Medium]([https://medium.com/@anshrutathakur13/decoding-discord-using-ai-to-identify-hate-speech-100e8073d3bf](https://medium.com/@anshrutathakur13/decoding-discord-using-ai-to-identify-hate-speech-100e8073d3bf))
+[View project on Colab](https://colab.research.google.com/drive/1rRiavPZYeSQPbQE0IoRFXuawqtjPFXta?usp=sharing) | [View article on Medium]([https://medium.com/@anshrutathakur13/decoding-discord-using-ai-to-identify-hate-speech-100e8073d3bf]([https://medium.com/@anshrutathakur13/decoding-discord-using-ai-to-identify-hate-speech-100e8073d3bf)](https://medium.com/@anshrutathakur13/decoding-discord-using-ai-to-identify-hate-speech-100e8073d3bf))
 
 ---
 

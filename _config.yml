@@ -1,21 +1,17 @@
-title: Anshruta Thakur # your name (or website title) here
-# logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  As a data-driven Quantitative Analyst with a strong foundation from UCLA, I specialize in leveraging advanced data analytics and machine learning to drive significant financial decisions and strategy developments.
-  <br><br>
-  My achievements include leveraging complex data sets at Optimas Capital to outperform benchmarks by 17.8% and developing a robust Forex trading strategy using sentiment analysis. I am skilled in Python, SQL, data visualization (Tableau), machine learning and predictive modeling, making me well-equipped to transform complex data into actionable insights and strategic guidance.
-  <br><br>
-  <a href="https://www.linkedin.com/in/anshruta-thakur/" target="_blank">
-   <img src="images/LinkedIn_icon.svg.png" alt="LinkedIn" style="width:50px;height:40px;margin-right:5px;">
-   View My LinkedIn Profile
-  </a>
-  <br><br>
-  <a href="https://anshrutathakur13.medium.com/" target="_blank">
-   <img src="images/1712115722819.jpeg" alt="Medium" style="width:60px;height:50px;margin-right:5px;">
-   Visit My Medium
-  </a>
-  <br><br>
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-# google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
+title: Anshruta Thakur 
+description: >
+  <div style="background: linear-gradient(135deg, #f6d365 0%, #fda085 100%); padding: 15px; border-radius: 10px;">
+    <h2 style="font-family: 'Arial', sans-serif; color: #333;">As a data-driven Quantitative Analyst with a strong foundation from UCLA, I specialize in leveraging advanced data analytics and machine learning to drive significant financial decisions and strategy developments.</h2>
+    <p style="font-family: 'Arial', sans-serif; color: #555;">
+      My achievements include leveraging complex data sets at Optimas Capital to outperform benchmarks by 17.8% and developing a robust Forex trading strategy using sentiment analysis. I am skilled in Python, SQL, data visualization (Tableau), machine learning and predictive modeling, making me well-equipped to transform complex data into actionable insights and strategic guidance.
+    </p>
+    <br><br>
+    <a href="https://www.linkedin.com/in/anshruta-thakur/" target="_blank" style="text-decoration: none;">
+      <button style="background-color: #0072b1; color: white; border: none; padding: 10px 20px; border-radius: 5px;">View My LinkedIn Profile</button>
+    </a>
+    <br><br>
+    <a href="https://anshrutathakur13.medium.com/" target="_blank" style="text-decoration: none;">
+      <button style="background-color: #000; color: white; border: none; padding: 10px 20px; border-radius: 5px;">Visit My Medium</button>
+    </a>
+  </div>

@@ -1,26 +1,6 @@
 ## Portfolio
 
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
 
-  <!-- Left Side: Profile and Skills Section -->
-  <div style="width: 30%; padding-right: 20px;">
-    <div style="background: #f5f7fa; padding: 20px; border-radius: 10px;">
-      <h2 style="font-family: 'Arial', sans-serif; color: #333; text-align: center;">Anshruta Thakur</h2>
-      <p style="font-family: 'Arial', sans-serif; color: #555; font-size: 18px; line-height: 1.6;">
-        Data Science and Economics Professional with a proven track record of delivering actionable insights and impactful strategies.
-      </p>
-      <p style="font-family: 'Arial', sans-serif; color: #555; font-size: 16px;">
-        I excel in leveraging advanced analytics, machine learning, and domain expertise to solve complex business problems and drive financial growth.
-      </p>
-      <div style="text-align: center; margin: 20px 0;">
-        <a href="https://www.linkedin.com/in/anshruta-thakur/" target="_blank" style="text-decoration: none;">
-          <button style="background-color: #0073b1; color: white; border: none; padding: 12px 24px; border-radius: 5px; font-size: 16px; margin-right: 10px;">View My LinkedIn Profile</button>
-        </a>
-        <a href="https://anshrutathakur13.medium.com/" target="_blank" style="text-decoration: none;">
-          <button style="background-color: #333; color: white; border: none; padding: 12px 24px; border-radius: 5px; font-size: 16px;">Visit My Medium</button>
-        </a>
-      </div>
-    </div>
 
     <!-- Scrolling Section for Experience, Skills, and Tools -->
     <div style="background: #e0eafc; padding: 20px; border-radius: 10px; margin-top: 20px; max-height: 400px; overflow-y: auto;">

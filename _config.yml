@@ -1,27 +1,19 @@
-
-title: Anshruta Thakur
-
+title: Anshruta Thakur 
 description: >
-  <div style="text-align: center; padding: 40px 20px; background: linear-gradient(135deg, #e0eafc 0%, #cfd9df 100%); border-radius: 10px; margin: 20px auto; max-width: 1000px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <h2 style="font-family: 'Arial', sans-serif; color: #333; font-size: 28px; margin-bottom: 20px;">Anshruta Thakur</h2>
-    <p style="font-family: 'Arial', sans-serif; color: #555; font-size: 18px; line-height: 1.6;">
-      Data Science and Economics Professional with a proven track record of delivering actionable insights and impactful strategies. I excel in leveraging advanced analytics, machine learning, and domain expertise to solve complex business problems and drive financial growth.
+  <div style="background: linear-gradient(135deg, #f6d365 0%, #fda085 100%); padding: 15px; border-radius: 10px;">
+    <h2 style="font-family: 'Arial', sans-serif; color: #333;">As a data-driven Quantitative Analyst with a strong foundation from UCLA, I specialize in leveraging advanced data analytics and machine learning to drive significant financial decisions and strategy developments.</h2>
+    <p style="font-family: 'Arial', sans-serif; color: #555;">
+      My achievements include leveraging complex data sets at Optimas Capital to outperform benchmarks by 17.8% and developing a robust Forex trading strategy using sentiment analysis. I am skilled in Python, SQL, data visualization (Tableau), machine learning and predictive modeling, making me well-equipped to transform complex data into actionable insights and strategic guidance.
     </p>
-    <div style="margin-top: 20px;">
-      <a href="https://www.linkedin.com/in/anshruta-thakur/" target="_blank" style="text-decoration: none;">
-        <button style="background-color: #0073b1; color: white; border: none; padding: 12px 24px; border-radius: 5px; font-size: 16px; margin-right: 10px;">View My LinkedIn Profile</button>
-      </a>
-      <a href="https://anshrutathakur13.medium.com/" target="_blank" style="text-decoration: none;">
-        <button style="background-color: #333; color: white; border: none; padding: 12px 24px; border-radius: 5px; font-size: 16px;">Visit My Medium</button>
-      </a>
-    </div>
+    <br><br>
+    <a href="https://www.linkedin.com/in/anshruta-thakur/" target="_blank" style="text-decoration: none;">
+      <button style="background-color: #0072b1; color: white; border: none; padding: 10px 20px; border-radius: 5px;">View My LinkedIn Profile</button>
+    </a>
+    <br><br>
+    <a href="https://anshrutathakur13.medium.com/" target="_blank" style="text-decoration: none;">
+      <button style="background-color: #000; color: white; border: none; padding: 10px 20px; border-radius: 5px;">Visit My Medium</button>
+    </a>
   </div>
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-# google_analytics: UA-000000-0 # your Google Analytics tracking ID here
-
-
 
 
 

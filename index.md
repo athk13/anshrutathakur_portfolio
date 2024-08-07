@@ -1,3 +1,24 @@
+<div class="project-cards">
+  ### Data Science, Machine Learning, NLP Projects 
+
+  <div class="card">
+    <h3>ML Models for Quantitative Finance- Alpha Research</h3>
+    <p>At Optimas Capital, a distinguished investment management firm, I analyzed a complex dataset with over 2000 financial features...</p>
+    <button onclick="window.location.href='https://github.com/athk13/Quantitative-Finance-ML-Model';">View project on GitHub</button>
+  </div>
+  
+  <div class="card">
+    <h3>Sentiment Analysis- Forex Trading Strategy</h3>
+    <p>In this project, I developed a Forex trading strategy by conducting sentiment analysis on economic news extracted using the NY Times API...</p>
+    <button onclick="window.location.href='https://github.com/athk13/FX-Sentiment-Analysis-Trading-Strategy';">View project on GitHub</button>
+  </div>
+
+  <!-- Add similar cards for other projects -->
+</div>
+
+
+
+
 ## Portfolio
 
 ---

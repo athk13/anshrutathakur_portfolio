@@ -6,9 +6,10 @@
   <div style="width: 30%; background: #e0eafc; padding: 20px; border-radius: 10px; max-height: 90vh; overflow-y: auto; margin-right: 20px;">
     <h3 style="font-family: 'Arial', sans-serif; color: #333;">Experience</h3>
     <ul style="font-family: 'Arial', sans-serif; color: #555; font-size: 16px;">
-      <li>Quantitative Analyst at Optimas Capital</li>
+      
       <li>Data Science Intern at ABGi USA</li>
       <li>Data Analyst at Equity Methods LLC</li>
+      <li>Quantitative Analyst at Optimas Capital</li>
     </ul>
 
     <h3 style="font-family: 'Arial', sans-serif; color: #333; margin-top: 20px;">Skills</h3>

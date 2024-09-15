@@ -1,7 +1,34 @@
 ## Data Science, Machine Learning, NLP Projects 
 
 ---
+#### Marketing Analysis - A/B Testing Project
 
+This project involved conducting a detailed marketing analysis using A/B testing to measure the effectiveness of different marketing strategies. By analyzing customer engagement metrics, I provided actionable insights to optimize campaign performance. The results revealed a significant 15% increase in conversion rates for the optimized strategy, driving overall business growth.
+
+![A/B Testing](https://img.shields.io/badge/A/B_Testing-lightgrey?style=flat-square)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-lightgrey?style=flat-square)
+![Statistical Testing](https://img.shields.io/badge/Statistical_Testing-lightgrey?style=flat-square)
+![Python](https://img.shields.io/badge/Python-lightgrey?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-lightgrey?style=flat-square)
+
+[View project on GitHub](https://github.com/athk13/Marketing-Analysis-AB-Testing)
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
+  <div style="width: 30%; padding-right: 10px;">
+    <p><strong>Figure 1:</strong> A/B Testing Strategy Overview</p>
+    <img src="images/placeholder_image1.png" alt="A/B Testing Strategy Overview" style="width: 100%; height: auto;"/>
+  </div>
+  <div style="width: 30%; padding-left: 10px; padding-right: 10px;">
+    <p><strong>Figure 2:</strong> Conversion Rate Comparison</p>
+    <img src="images/placeholder_image2.png" alt="Conversion Rate Comparison" style="width: 100%; height: auto;"/>
+  </div>
+  <div style="width: 30%; padding-left: 10px;">
+    <p><strong>Figure 3:</strong> Statistical Analysis Results</p>
+    <img src="images/placeholder_image3.png" alt="Statistical Analysis Results" style="width: 100%; height: auto;"/>
+  </div>
+</div>
+
+---
 #### ML Models for Quantitative Finance- Alpha Research
 
 At Optimas Capital, a distinguished investment management firm, I analyzed a complex dataset with over 2000 financial features using PCA and machine learning models like Random Forest and XGBoost, developing strategies that outperformed the market benchmark by 17.8%. Our team successfully achieved the project goal of finding orthogonal alphas.
@@ -35,8 +62,6 @@ In this project, I developed a Forex trading strategy by conducting sentiment an
     <img src="images/Screenshot%202024-04-16%20122058.png" alt="Equity Curve" style="width: 100%; height: auto;"/>
   </div>
 </div>
-
-
 
 
 ---

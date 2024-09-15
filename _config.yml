@@ -1,9 +1,14 @@
 title: Anshruta Thakur # your name (or website title) here
 # logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  A data-driven Data Science Intern at ABGi USA, I'm leveraging advanced analytics and machine learning to drive strategic decision-making. With a strong foundation from UCLA in Quantitative Economics, I specialize in building predictive models, optimizing data workflows, and developing insights through data visualization.
+description: > 
+  Data Science Intern at ABGi USA with a strong background in Quantitative Economics from UCLA. Passionate about using analytics to drive insights and decision-making.
   <br><br>
-  My experience includes leading a team at Optimas Capital to outperform market benchmarks by 17.8% through advanced machine learning models and analyzing financial datasets with over 2000 features. Additionally, I have successfully implemented revenue forecasting models that increased forecast accuracy by 20% and applied machine learning techniques to identify growth opportunities in high-performance regions.
+  **Experiences:**
+  - Founder & Mentor - Data Gals Initiative
+  - Data Science Intern - ABGi USA
+  - Quantitative Analyst - Optimas Capital
+  - Data Analyst - Equity Methods LLC
+  - Researcher - UCLA Applied Business Project
   <br><br>
   <a href="https://www.linkedin.com/in/anshruta-thakur/" target="_blank">
    <img src="images/LinkedIn_icon.svg.png" alt="LinkedIn" style="width:50px;height:40px;margin-right:5px;">
@@ -15,8 +20,10 @@ description: > # your text below (remove <br> elements if you don't need line br
    Visit My Medium
   </a>
   <br><br>
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/midnight@v0.2.0
+#pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
+
 # google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 

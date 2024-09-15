@@ -17,17 +17,18 @@ This project involved conducting a detailed marketing analysis using A/B testing
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
   <div style="width: 30%; padding-right: 10px;">
     <p><strong>Figure 1:</strong> Conversion Rate by Day</p>
-    <img src="images/conversion-rate-by-day.png" alt="Conversion Rate by Day" style="width: 100%; height: auto;"/>
+    <img src="images/conversion-rate-by-day.png" alt="Conversion Rate by Day" style="width: 100%; height: 200px; object-fit: cover;"/>
   </div>
   <div style="width: 30%; padding-left: 10px; padding-right: 10px;">
     <p><strong>Figure 2:</strong> Conversion Rates by Test Group</p>
-    <img src="images/conversion-rates-by-test-group.png" alt="Conversion Rates by Test Group" style="width: 100%; height: auto;"/>
+    <img src="images/conversion-rates-by-test-group.png" alt="Conversion Rates by Test Group" style="width: 100%; height: 200px; object-fit: cover;"/>
   </div>
   <div style="width: 30%; padding-left: 10px;">
     <p><strong>Figure 3:</strong> Conversion Rate by Hour</p>
-    <img src="images/conversion-rate-by-hour.png" alt="Conversion Rate by Hour" style="width: 100%; height: auto;"/>
+    <img src="images/conversion-rate-by-hour.png" alt="Conversion Rate by Hour" style="width: 100%; height: 200px; object-fit: cover;"/>
   </div>
 </div>
+
 
 ---
 #### ML Models for Quantitative Finance- Alpha Research

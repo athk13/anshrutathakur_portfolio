@@ -2,7 +2,7 @@
 
 ---
 
-#### Marketing Analysis - A/B Testing Project
+### Marketing Analysis - A/B Testing Project
 
 This project involved conducting a detailed marketing analysis using A/B testing to measure the effectiveness of different marketing strategies. By analyzing customer engagement metrics, I provided actionable insights to optimize campaign performance. The results revealed a significant 15% increase in conversion rates for the optimized strategy, driving overall business growth.
 
@@ -29,9 +29,10 @@ This project involved conducting a detailed marketing analysis using A/B testing
   </div>
 </div>
 
+
 ---
 
-#### ML Models for Quantitative Finance- Alpha Research
+### ML Models for Quantitative Finance- Alpha Research
 
 At Optimas Capital, a distinguished investment management firm, I analyzed a complex dataset with over 2000 financial features using PCA and machine learning models like Random Forest and XGBoost, developing strategies that outperformed the market benchmark by 17.8%. Our team successfully achieved the project goal of finding orthogonal alphas.
 
@@ -42,9 +43,20 @@ At Optimas Capital, a distinguished investment management firm, I analyzed a com
 
 <a href="https://github.com/athk13/Quantitative-Finance-ML-Model" style="color:#6a0dad;">View project on GitHub</a>
 
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
+  <div style="width: 45%; padding-right: 10px;">
+    <p><strong>Figure 1:</strong> Random Forest Overview</p>
+    <img src="images/random-forest.png" alt="Random Forest Overview" style="width: 100%; height: auto;"/>
+  </div>
+  <div style="width: 45%; padding-left: 10px;">
+    <p><strong>Figure 2:</strong> Cumulative Returns</p>
+    <img src="images/cumulative-returns.png" alt="Cumulative Returns" style="width: 100%; height: auto;"/>
+  </div>
+</div>
+
 ---
 
-#### Sentiment Analysis- Forex Trading Strategy
+### Sentiment Analysis- Forex Trading Strategy
 
 In this project, I developed a Forex trading strategy by conducting sentiment analysis on economic news extracted using the NY Times API, spanning 2003 to 2024, using advanced NLP techniques and machine learning algorithms. The strategy was optimized through backtesting and hyperparameter tuning, ultimately achieving a 1.4% annualized return, thereby outperforming the HFRI Currency Index. 
 
@@ -56,19 +68,24 @@ In this project, I developed a Forex trading strategy by conducting sentiment an
 <a href="https://github.com/athk13/FX-Sentiment-Analysis-Trading-Strategy" style="color:#6a0dad;">View project on GitHub</a>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
-  <div style="width: 50%; padding-right: 10px;">
+  <div style="width: 30%; padding-right: 10px;">
     <p><strong>Figure 1:</strong> Trading Signal Chart</p>
     <img src="images/Screenshot%202024-04-16%20122044.png" alt="Trading Signal Chart" style="width: 100%; height: auto;"/>
   </div>
-  <div style="width: 50%; padding-left: 10px;">
+  <div style="width: 30%; padding-left: 10px; padding-right: 10px;">
     <p><strong>Figure 2:</strong> Strategy Equity Curve</p>
     <img src="images/Screenshot%202024-04-16%20122058.png" alt="Equity Curve" style="width: 100%; height: auto;"/>
   </div>
+  <div style="width: 30%; padding-left: 10px;">
+    <p><strong>Figure 3:</strong> Hyperparameter Optimization Heatmap</p>
+    <img src="images/hyperparameter-heatmap.png" alt="Hyperparameter Optimization Heatmap" style="width: 100%; height: auto;"/>
+  </div>
 </div>
+
 
 ---
 
-#### Deep NLP- Hate Speech Recognition
+### Deep NLP- Hate Speech Recognition
 
 This project involves developing a machine learning model to detect hateful and offensive speech on social media platforms, specifically analyzing tweets from the 2020 US Elections. Using BERT, a natural language processing model, the project integrates both textual content and contextual stances towards political figures to classify tweets as either hateful or non-hateful, aiming to enhance content moderation by improving the detection accuracy of harmful online behavior.
 
@@ -80,7 +97,7 @@ This project involves developing a machine learning model to detect hateful and 
 
 ---
 
-### Data Analytics
+## Data Analytics
 
 - **Executive Compensation Analytics (SEC PvP Disclosures)**:
   

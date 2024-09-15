@@ -12,25 +12,25 @@ This project involved conducting a detailed marketing analysis using A/B testing
 ![Python](https://img.shields.io/badge/Python-lightgrey?style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-lightgrey?style=flat-square)
 
-[View project on GitHub](https://github.com/athk13/Marketing-Analysis-AB-Testing)
+<a href="https://github.com/athk13/AB-Testing-Marketing-Ad-Campaign" style="color:#6a0dad;">View project on GitHub</a>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
   <div style="width: 30%; padding-right: 10px;">
     <p><strong>Figure 1:</strong> Conversion Rate by Day</p>
-    <img src="images/conversion-rate-by-day.png" alt="Conversion Rate by Day" style="width: 100%; height: 200px; object-fit: cover;"/>
+    <img src="images/conversion-rate-by-day.png" alt="Conversion Rate by Day" style="width: 100%; height: auto;"/>
   </div>
   <div style="width: 30%; padding-left: 10px; padding-right: 10px;">
     <p><strong>Figure 2:</strong> Conversion Rates by Test Group</p>
-    <img src="images/conversion-rates-by-test-group.png" alt="Conversion Rates by Test Group" style="width: 100%; height: 200px; object-fit: cover;"/>
+    <img src="images/conversion-rates-by-test-group.png" alt="Conversion Rates by Test Group" style="width: 100%; height: auto;"/>
   </div>
   <div style="width: 30%; padding-left: 10px;">
     <p><strong>Figure 3:</strong> Conversion Rate by Hour</p>
-    <img src="images/conversion-rate-by-hour.png" alt="Conversion Rate by Hour" style="width: 100%; height: 200px; object-fit: cover;"/>
+    <img src="images/conversion-rate-by-hour.png" alt="Conversion Rate by Hour" style="width: 100%; height: auto;"/>
   </div>
 </div>
 
-
 ---
+
 #### ML Models for Quantitative Finance- Alpha Research
 
 At Optimas Capital, a distinguished investment management firm, I analyzed a complex dataset with over 2000 financial features using PCA and machine learning models like Random Forest and XGBoost, developing strategies that outperformed the market benchmark by 17.8%. Our team successfully achieved the project goal of finding orthogonal alphas.
@@ -40,9 +40,10 @@ At Optimas Capital, a distinguished investment management firm, I analyzed a com
 ![Random Forest](https://img.shields.io/badge/Random_Forest-lightgrey?style=flat-square)
 ![XGBoost](https://img.shields.io/badge/XGBoost-lightgrey?style=flat-square)
 
-[View project on GitHub](https://github.com/athk13/Quantitative-Finance-ML-Model)
+<a href="https://github.com/athk13/Quantitative-Finance-ML-Model" style="color:#6a0dad;">View project on GitHub</a>
 
 ---
+
 #### Sentiment Analysis- Forex Trading Strategy
 
 In this project, I developed a Forex trading strategy by conducting sentiment analysis on economic news extracted using the NY Times API, spanning 2003 to 2024, using advanced NLP techniques and machine learning algorithms. The strategy was optimized through backtesting and hyperparameter tuning, ultimately achieving a 1.4% annualized return, thereby outperforming the HFRI Currency Index. 
@@ -52,7 +53,7 @@ In this project, I developed a Forex trading strategy by conducting sentiment an
 ![NLP](https://img.shields.io/badge/NLP-lightgrey?style=flat-square)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-lightgrey?style=flat-square)
 
-[View project on GitHub](https://github.com/athk13/FX-Sentiment-Analysis-Trading-Strategy)
+<a href="https://github.com/athk13/FX-Sentiment-Analysis-Trading-Strategy" style="color:#6a0dad;">View project on GitHub</a>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
   <div style="width: 50%; padding-right: 10px;">
@@ -65,7 +66,6 @@ In this project, I developed a Forex trading strategy by conducting sentiment an
   </div>
 </div>
 
-
 ---
 
 #### Deep NLP- Hate Speech Recognition
@@ -76,23 +76,20 @@ This project involves developing a machine learning model to detect hateful and 
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-lightgrey?style=flat-square)
 ![PyTorch](https://img.shields.io/badge/PyTorch-lightgrey?style=flat-square&logo=pytorch)
 
-[View project on Colab](https://colab.research.google.com/drive/1rRiavPZYeSQPbQE0IoRFXuawqtjPFXta?usp=sharing) | [View article on Medium](https://anshrutathakur13.medium.com/decoding-discord-using-ai-to-identify-hate-speech-100e8073d3bf)
+<a href="https://colab.research.google.com/drive/1rRiavPZYeSQPbQE0IoRFXuawqtjPFXta?usp=sharing" style="color:#6a0dad;">View project on Colab</a> | <a href="https://anshrutathakur13.medium.com/decoding-discord-using-ai-to-identify-hate-speech-100e8073d3bf" style="color:#6a0dad;">View article on Medium</a>
 
 ---
 
 ### Data Analytics
 
-- **Executive Compensation Analytics (SEC PvP Disclosures)** :
+- **Executive Compensation Analytics (SEC PvP Disclosures)**:
   
-  Dove into compensation data across 1,780 firms, uncovering critical patterns between executive pay and corporate 
-  outcomes, driving strategic shifts in performance benchmarks.
-- **Strategic Portfolio Optimization** :
+  Dove into compensation data across 1,780 firms, uncovering critical patterns between executive pay and corporate outcomes, driving strategic shifts in performance benchmarks.
+- **Strategic Portfolio Optimization**:
   
-  Developed a data-driven portfolio optimization model using historical stock data and Markowitz's optimization theory, 
-  successfully creating risk-adjusted, diversified portfolios.
-  
----
+  Developed a data-driven portfolio optimization model using historical stock data and Markowitz's optimization theory, successfully creating risk-adjusted, diversified portfolios.
 
+---
 
 
 

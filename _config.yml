@@ -20,10 +20,16 @@ description: >
    Visit My Medium
   </a>
   <br><br>
-remote_theme: pages-themes/midnight@v0.2.0
+  <a href="https://datagals.notion.site/Data-Gals-Initiative-42992f48c28545e89f2a18802ce5d716?p=5385d7dddaa245f78271895f533d2d70&pm=c" target="_blank">
+   <img src="images/Linkedin_Post.png" alt="Data Gals" style="width:60px;height:50px;margin-right:5px;">
+   Visit Data Gals
+  </a>
+  <br><br>
+remote_theme: pages-themes/architect@v0.2.0
 #pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
+
 
 # google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 

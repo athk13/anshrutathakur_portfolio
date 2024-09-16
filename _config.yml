@@ -5,57 +5,23 @@ description: >
   <br><br>
   <strong>Experiences:</strong>
 
-<div style="position: relative; max-width: 800px; margin: 0 auto; padding: 20px 0;">
+# Experience Timeline
+experience:
+  - date: "2024 - Present"
+    title: "Founder & Mentor - Data Gals Initiative"
+    description: "Brief description of your role and key achievements."
 
-  <!-- First Timeline Item -->
-  <div style="padding: 20px 0; position: relative;">
-    <div style="font-weight: bold; color: #b19cd9; float: left; width: 15%; text-align: right; padding-right: 20px;">
-      2024 - Present
-    </div>
-    <div style="padding-left: 40px; border-left: 2px solid #b19cd9; position: relative;">
-      <h3>Founder & Mentor - Data Gals Initiative</h3>
-      <p>Brief description of your role and key achievements.</p>
-    </div>
-  </div>
+  - date: "2024"
+    title: "Data Science Intern, Real Estate Practice - ABGi USA"
+    description: "Brief description of your role and key achievements."
 
-  <!-- Second Timeline Item -->
-  <div style="padding: 20px 0; position: relative;">
-    <div style="font-weight: bold; color: #b19cd9; float: left; width: 15%; text-align: right; padding-right: 20px;">
-      2024
-    </div>
-    <div style="padding-left: 40px; border-left: 2px solid #b19cd9; position: relative;">
-      <h3>Data Science Intern, Real Estate Practice - ABGi USA</h3>
-      <p>Brief description of your role and key achievements.</p>
-    </div>
-  </div>
+  - date: "2023"
+    title: "Quantitative Analyst - Optimas Capital"
+    description: "Brief description of your role and key achievements."
 
-  <!-- Third Timeline Item -->
-  <div style="padding: 20px 0; position: relative;">
-    <div style="font-weight: bold; color: #b19cd9; float: left; width: 15%; text-align: right; padding-right: 20px;">
-      2023
-    </div>
-    <div style="padding-left: 40px; border-left: 2px solid #b19cd9; position: relative;">
-      <h3>Quantitative Analyst - Optimas Capital</h3>
-      <p>Brief description of your role and key achievements.</p>
-    </div>
-  </div>
-
-  <!-- Fourth Timeline Item -->
-  <div style="padding: 20px 0; position: relative;">
-    <div style="font-weight: bold; color: #b19cd9; float: left; width: 15%; text-align: right; padding-right: 20px;">
-      2022 - 2023
-    </div>
-    <div style="padding-left: 40px; border-left: 2px solid #b19cd9; position: relative;">
-      <h3>Data Analyst - Equity Methods LLC</h3>
-      <p>Brief description of your role and key achievements.</p>
-    </div>
-  </div>
-
-</div>
-
-
-
-
+  - date: "2022 - 2023"
+    title: "Data Analyst - Equity Methods LLC"
+    description: "Brief description of your role and key achievements."
 
   
   <ul>

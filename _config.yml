@@ -1,35 +1,59 @@
 title: "<span style='color:#b19cd9;'>Anshruta Thakur</span>" # your name here, with pastel color styling
-# logo: "/images/logo.png?raw=true" # your photo (or logo) here
+
+# Description section with timeline-like experience format
 description: > 
   I love data. I love uncovering the stories it tells and turning those stories into actionable insights.
   <br><br>
   <strong>Experiences:</strong>
 
-# Experience Timeline
-experience:
-  - date: "2024 - Present"
-    title: "Founder & Mentor - Data Gals Initiative"
-    description: "Brief description of your role and key achievements."
+  <div style="position: relative; max-width: 800px; margin: 0 auto; padding: 20px 0;">
+    
+    <!-- Experience 1 -->
+    <div style="padding: 20px 0; position: relative;">
+      <div style="font-weight: bold; color: #b19cd9; float: left; width: 20%; text-align: right; padding-right: 20px;">
+        2024 - Present
+      </div>
+      <div style="padding-left: 40px; border-left: 2px solid #b19cd9; position: relative;">
+        <h3>Founder & Mentor - Data Gals Initiative</h3>
+        <p>Brief description of your role and key achievements.</p>
+      </div>
+    </div>
 
-  - date: "2024"
-    title: "Data Science Intern, Real Estate Practice - ABGi USA"
-    description: "Brief description of your role and key achievements."
+    <!-- Experience 2 -->
+    <div style="padding: 20px 0; position: relative;">
+      <div style="font-weight: bold; color: #b19cd9; float: left; width: 20%; text-align: right; padding-right: 20px;">
+        2024
+      </div>
+      <div style="padding-left: 40px; border-left: 2px solid #b19cd9; position: relative;">
+        <h3>Data Science Intern, Real Estate Practice - ABGi USA</h3>
+        <p>Brief description of your role and key achievements.</p>
+      </div>
+    </div>
 
-  - date: "2023"
-    title: "Quantitative Analyst - Optimas Capital"
-    description: "Brief description of your role and key achievements."
+    <!-- Experience 3 -->
+    <div style="padding: 20px 0; position: relative;">
+      <div style="font-weight: bold; color: #b19cd9; float: left; width: 20%; text-align: right; padding-right: 20px;">
+        2023
+      </div>
+      <div style="padding-left: 40px; border-left: 2px solid #b19cd9; position: relative;">
+        <h3>Quantitative Analyst - Optimas Capital</h3>
+        <p>Brief description of your role and key achievements.</p>
+      </div>
+    </div>
 
-  - date: "2022 - 2023"
-    title: "Data Analyst - Equity Methods LLC"
-    description: "Brief description of your role and key achievements."
+    <!-- Experience 4 -->
+    <div style="padding: 20px 0; position: relative;">
+      <div style="font-weight: bold; color: #b19cd9; float: left; width: 20%; text-align: right; padding-right: 20px;">
+        2022 - 2023
+      </div>
+      <div style="padding-left: 40px; border-left: 2px solid #b19cd9; position: relative;">
+        <h3>Data Analyst - Equity Methods LLC</h3>
+        <p>Brief description of your role and key achievements.</p>
+      </div>
+    </div>
 
-  
-  <ul>
-    <li>Founder & Mentor - Data Gals Initiative</li>
-    <li>Data Science Intern, Real Estate Practice - ABGi USA</li>
-    <li>Quantitative Analyst - Optimas Capital</li>
-    <li>Data Analyst - Equity Methods LLC</li>
-  </ul>
+  </div>
+
   <br>
   <strong>Leadership:</strong>
   <ul>
@@ -37,24 +61,27 @@ experience:
     <li>General Secretary - Women's Development Cell (Undergraduate University)</li>
   </ul>
   <br> 
+
   <a href="https://www.linkedin.com/in/anshruta-thakur/" target="_blank" style="color:#6a0dad;">
-   <img src="images/LinkedIn_icon.svg.png" alt="LinkedIn" style="width:50px;height:40px;margin-right:5px;">
-   View My LinkedIn
+    <img src="images/LinkedIn_icon.svg.png" alt="LinkedIn" style="width:50px;height:40px;margin-right:5px;">
+    View My LinkedIn
   </a>
   <br><br>
   <a href="https://anshrutathakur13.medium.com/" target="_blank" style="color:#6a0dad;">
-   <img src="images/1712115722819.jpeg" alt="Medium" style="width:60px;height:50px;margin-right:5px;">
-   Visit My Medium
+    <img src="images/1712115722819.jpeg" alt="Medium" style="width:60px;height:50px;margin-right:5px;">
+    Visit My Medium
   </a>
   <br><br>
   <a href="https://your-data-gals-link.com" target="_blank" style="color:#6a0dad;">
-   <img src="images/LinkedIn_Post.png" alt="Data Gals" style="width:60px;height:50px;margin-right:5px;">
-   Visit Data Gals
+    <img src="images/LinkedIn_Post.png" alt="Data Gals" style="width:60px;height:50px;margin-right:5px;">
+    Visit Data Gals
   </a>
   <br><br>
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
+
 
 
 

@@ -6,49 +6,45 @@ description: >
   <br><br>
   <strong>Experiences:</strong>
 
-  <div style="position: relative; max-width: 800px; margin: 0 auto; padding: 20px 0;">
+  <div style="position: relative; max-width: 800px; margin: 0 auto; padding: 10px 0;"> <!-- Reduced padding -->
     
     <!-- Experience 1 -->
-    <div style="padding: 20px 0; position: relative;">
-      <div style="font-weight: bold; color: #b19cd9; float: left; width: 20%; text-align: right; padding-right: 20px;">
+    <div style="padding: 10px 0; position: relative;"> <!-- Reduced padding -->
+      <div style="font-weight: bold; color: #b19cd9; float: left; width: 25%; text-align: right; padding-right: 15px;"> <!-- Adjusted width and padding -->
         Sep 2024 - Present
       </div>
-      <div style="padding-left: 40px; border-left: 2px solid #b19cd9; position: relative;">
+      <div style="padding-left: 35px; border-left: 2px solid #b19cd9; position: relative;"> <!-- Adjusted padding -->
         <h3>Founder & Mentor - Data Gals Initiative</h3>
-  
       </div>
     </div>
 
     <!-- Experience 2 -->
-    <div style="padding: 20px 0; position: relative;">
-      <div style="font-weight: bold; color: #b19cd9; float: left; width: 20%; text-align: right; padding-right: 20px;">
+    <div style="padding: 10px 0; position: relative;"> <!-- Reduced padding -->
+      <div style="font-weight: bold; color: #b19cd9; float: left; width: 25%; text-align: right; padding-right: 15px;"> <!-- Adjusted width and padding -->
         Jun 2024 - Present
       </div>
-      <div style="padding-left: 40px; border-left: 2px solid #b19cd9; position: relative;">
+      <div style="padding-left: 35px; border-left: 2px solid #b19cd9; position: relative;"> <!-- Adjusted padding -->
         <h3>Data Science Intern, Real Estate Practice - ABGi USA</h3>
-        
       </div>
     </div>
 
     <!-- Experience 3 -->
-    <div style="padding: 20px 0; position: relative;">
-      <div style="font-weight: bold; color: #b19cd9; float: left; width: 20%; text-align: right; padding-right: 20px;">
+    <div style="padding: 10px 0; position: relative;"> <!-- Reduced padding -->
+      <div style="font-weight: bold; color: #b19cd9; float: left; width: 25%; text-align: right; padding-right: 15px;"> <!-- Adjusted width and padding -->
         Jan 2024 - March 2024
       </div>
-      <div style="padding-left: 40px; border-left: 2px solid #b19cd9; position: relative;">
+      <div style="padding-left: 35px; border-left: 2px solid #b19cd9; position: relative;"> <!-- Adjusted padding -->
         <h3>Quantitative Analyst - Optimas Capital</h3>
-        
       </div>
     </div>
 
     <!-- Experience 4 -->
-    <div style="padding: 20px 0; position: relative;">
-      <div style="font-weight: bold; color: #b19cd9; float: left; width: 20%; text-align: right; padding-right: 20px;">
+    <div style="padding: 10px 0; position: relative;"> <!-- Reduced padding -->
+      <div style="font-weight: bold; color: #b19cd9; float: left; width: 25%; text-align: right; padding-right: 15px;"> <!-- Adjusted width and padding -->
         Aug 2023 - Sep 2023
       </div>
-      <div style="padding-left: 40px; border-left: 2px solid #b19cd9; position: relative;">
+      <div style="padding-left: 35px; border-left: 2px solid #b19cd9; position: relative;"> <!-- Adjusted padding -->
         <h3>Data Analyst - Equity Methods LLC</h3>
-        
       </div>
     </div>
 

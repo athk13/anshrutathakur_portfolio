@@ -8,6 +8,15 @@ description: >
 
   <div style="position: relative; max-width: 800px; margin: 0 auto; padding: 10px 0;"> <!-- Reduced padding -->
     
+    <div style="padding: 10px 0; position: relative;"> <!-- Reduced padding -->
+      <div style="font-weight: bold; color: #b19cd9; float: left; width: 30%; text-align: right; padding-right: 15px; font-size: 0.9em;"> <!-- Increased width and reduced font size -->
+        April 2025 - Present
+      </div>
+      <div style="padding-left: 35px; border-left: 2px solid #b19cd9; position: relative;"> <!-- Adjusted padding -->
+        <h3>Data Scientist - ABGi USA</h3>
+      </div>
+    </div>
+    
     <!-- Experience 1 -->
     <div style="padding: 10px 0; position: relative;"> <!-- Reduced padding -->
       <div style="font-weight: bold; color: #b19cd9; float: left; width: 30%; text-align: right; padding-right: 15px; font-size: 0.9em;"> <!-- Increased width and reduced font size -->
@@ -21,7 +30,7 @@ description: >
     <!-- Experience 2 -->
     <div style="padding: 10px 0; position: relative;"> <!-- Reduced padding -->
       <div style="font-weight: bold; color: #b19cd9; float: left; width: 30%; text-align: right; padding-right: 15px; font-size: 0.9em;"> <!-- Increased width and reduced font size -->
-        Jun 2024 - Present
+        Jun 2024 - Dec 2024
       </div>
       <div style="padding-left: 35px; border-left: 2px solid #b19cd9; position: relative;"> <!-- Adjusted padding -->
         <h3>Data Science Intern, Real Estate Practice - ABGi USA</h3>
